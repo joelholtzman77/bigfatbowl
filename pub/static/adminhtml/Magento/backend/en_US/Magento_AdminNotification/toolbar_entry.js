@@ -1,0 +1,1 @@
+/chroot/home/bigfatbo/bigfatbowl.com/html/app/code/Magento/AdminNotification/view/adminhtml/web/toolbar_entry.js

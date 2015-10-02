@@ -1,0 +1,1 @@
+/chroot/home/bigfatbo/dev.bigfatbowl.com/html/app/code/Magento/Payment/view/frontend/web/js/view/payment/payments.js

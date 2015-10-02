@@ -1,0 +1,1 @@
+/chroot/home/bigfatbo/bigfatbowl.com/html/app/code/Magento/Paypal/view/adminhtml/web/js/rules/paypal/express/lock-configuration-conditional.js

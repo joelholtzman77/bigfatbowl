@@ -1,0 +1,1 @@
+/chroot/home/bigfatbo/dev.bigfatbowl.com/html/app/code/Magento/Customer/view/frontend/web/js/view/customer-email.js

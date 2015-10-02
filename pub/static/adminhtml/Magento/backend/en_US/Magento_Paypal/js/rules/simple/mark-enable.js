@@ -1,0 +1,1 @@
+/chroot/home/bigfatbo/bigfatbowl.com/html/app/code/Magento/Paypal/view/adminhtml/web/js/rules/simple/mark-enable.js

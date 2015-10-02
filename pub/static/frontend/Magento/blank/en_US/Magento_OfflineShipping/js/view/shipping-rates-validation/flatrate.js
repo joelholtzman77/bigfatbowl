@@ -1,0 +1,1 @@
+/chroot/home/bigfatbo/dev.bigfatbowl.com/html/app/code/Magento/OfflineShipping/view/frontend/web/js/view/shipping-rates-validation/flatrate.js

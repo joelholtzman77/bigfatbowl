@@ -1,0 +1,1 @@
+/chroot/home/bigfatbo/dev.bigfatbowl.com/html/app/code/Magento/SalesRule/view/frontend/web/js/view/payment/discount.js

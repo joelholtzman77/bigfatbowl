@@ -1,0 +1,10 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../lib/internal/Magento/Framework/ObjectManager/etc/config.xsd">
+<preference for="MageClass\First\Model\Config\"
+type="MageClass\First\Model\Config" />
+<type name="Magento\Catalog\Model\Product">
+	
+<plugin name="magento-catalog-product-plugin"
+type="MageClass\First\Model\Product" sortOrder="10"/>
+</type>
+
+</config>

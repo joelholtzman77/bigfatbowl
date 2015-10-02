@@ -1,0 +1,1 @@
+/chroot/home/bigfatbo/dev.bigfatbowl.com/html/app/code/Magento/CheckoutAgreements/view/frontend/web/js/view/checkout-agreements-modal.js

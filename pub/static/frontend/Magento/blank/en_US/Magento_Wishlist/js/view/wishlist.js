@@ -1,0 +1,1 @@
+/chroot/home/bigfatbo/bigfatbowl.com/html/app/code/Magento/Wishlist/view/frontend/web/js/view/wishlist.js

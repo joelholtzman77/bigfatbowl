@@ -1,0 +1,1 @@
+/chroot/home/bigfatbo/bigfatbowl.com/html/app/code/Magento/ConfigurableProduct/view/adminhtml/web/catalog/product-variation.js
